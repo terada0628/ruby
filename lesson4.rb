@@ -1,0 +1,2 @@
+name = "terada"
+puts name
